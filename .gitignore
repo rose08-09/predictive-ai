@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific folders
+data/
+models/
+
+# Model files
+*.h5
+*.pt
+*.pkl
+
+# Streamlit cache
+.streamlit/cache/
